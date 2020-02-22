@@ -1,0 +1,208 @@
+    1  cd ..
+    2  ls
+    3  cd ubuntu/
+    4  mkdir django
+    5  cd django
+    6  mkdir lesson1
+    7  cd lesson1/
+    8  touch index.html
+    9  cd ..
+   10  git init
+   11  git add lesson1/index.html
+   12  git commit -m "first commit"
+   13   git config --global user.email "mira.barbash@gmail.com"  git config --global user.name "
+   14  git config --global user.name "Mira"
+   15   git config --global user.email "mira.barbash@gmail.com"
+   16  git config --global user.email "mira.barbash@gmail.com"
+   17  git commit -m "first commit"
+   18  git remote add origin https://github.com/mirabarbash/django.git
+   19  git push -u origin master
+   20  django/
+   21  /django/
+   22  /django/
+   23  /django/lesson1/
+   24  cd ..
+   25  cd django/
+   26  cd django/lesson1/
+   27  cd ~/ Documents /
+   28  cd ..
+   29  cd ~/ Documents /
+   30  cd ~
+   31  cd / Documents / 
+   32  cd ~/ Documents / DjangoStart / lesson1 /
+   33  cd ..
+   34  cd ~/ Documents / DjangoStart / lesson1 /
+   35  cd ~/ Documents
+   36  cd ~/ Documents /
+   37  cd ~ / Documents /
+   38  cd ~
+   39  cd ~/ Documents /
+   40  cd / Documents
+   41  cd / Documents /
+   42  cd /Documents/
+   43  cd ..
+   44  cd ~/ Documents /
+   45  cd ~/ Documents / DjangoStart / lesson1 /
+   46  cd ~ /Documents/
+   47  cd /Documents/
+   48  cd ~/django/lesson1/
+   49  mkdir homework
+   50  cp index . html homework / index . html
+   51  cp index.html homework / index.html
+   52  cp index. html
+   53  index .html homework/index .html
+   54  cd djano/
+   55  cd django/
+   56  cd . .
+   57  cd /django/
+   58  cd ~/django/
+   59  ls
+   60  mkdir lesson2
+   61  cd /lesson2/
+   62  cd /django/lesson2/
+   63  cd lesson2/
+   64  touch script.sh
+   65  ./script.sh
+   66  ls -l
+   67  cd -
+   68  cd lesson2/
+   69  chmod +x script.sh 
+   70  ls 
+   71  ./script.sh 
+   72  cd ~
+   73  cp ~/django/lesson2/script.sh ~/django/lesson2/test/test.txt 
+   74  cd django/lesson2
+   75  cp script.sh test.txt
+   76  cd -
+   77  cp ~/django/lesson2/script.sh ~/django/lesson2/test/test.txt 
+   78  cp ~/django/lesson2/text.txt  ~/django/lesson2/test/test.txt 
+   79  cp ~/django/lesson2/test.txt  ~/django/lesson2/test/test.txt 
+   80  cd django/lesson2
+   81  ls
+   82  cat test.txt 
+   83  mv test.txt script2.sh
+   84  mv script2.sh test/
+   85  cop script2.sh lesson1/homework
+   86  cp script2.sh ~/django/lesson1/homework
+   87  cp ~/django/lesson2/script2.sh ~/django/lesson1/homework/
+   88  cd -
+   89   cp ~/django/lesson2/script2.sh ~/django/lesson1/homework/
+   90  cp ~/django/lesson2/test/script2.sh ~/django/lesson1/homework/
+   91  pwd
+   92  cd django/lesson2/
+   93  pwd
+   94  whoami
+   95  cd test
+   96  mv test.txt test.sh
+   97  ./test.sh
+   98  chmod +x test.sh
+   99  ./test.sh
+  100  echo $HOME
+  101  echo "its my home directory: $HOME" 
+  102  echo "$name has index = $index"
+  103  ./test.sh 
+  104  ./test.sh 
+  105  ./test.sh 
+  106  cd ..
+  107  cd ..
+  108  git status
+  109  git add lesson2/
+  110  git status
+  111  git comit
+  112  git comit -m "lesson2"
+  113  git commit -m "lesson2"
+  114  git push -u origin master
+  115  git push -u origin master
+  116  history
+  117  cd django/lesson1/homework
+  118  mkdir index.html
+  119  touch index.html
+  120  cd ...
+  121  cd ..
+  122  cd ..
+  123  cd lesson2
+  124  mkdir homework
+  125  touch task3.sh
+  126  cp script.sh task3.sh
+  127  ./task3.sh
+  128  cp lesson2/script.sh lesson2/homework/task3.sh
+  129  cp /lesson2/script.sh /lesson2/homework/task3.sh
+  130  cd homework/
+  131  ./task3.sh
+  132  ./task3.sh
+  133  ./ task3.sh
+  134  .task3.sh
+  135  ./task.sh
+  136  cp django/lesson2/script.sh homework/task3.sh
+  137  cp ~/django/lesson2/script.sh homework/task3.sh
+  138  cp ~/django/lesson2/script.sh lesson2/homework/task3.sh
+  139  cp  ~/django/lesson2/script.sh ~/django/lesson2/homework/task3.sh
+  140  · js/
+  141  touch js
+  142  touch css
+  143  touch img
+  144  mkdir project
+  145  cd project/
+  146  touch task4.sh
+  147  js/
+  148  cd ..
+  149  js/
+  150  cd js/
+  151  ./js/
+  152  ./js
+  153  cd /js/
+  154  cd js
+  155  cd js/
+  156  js/
+  157  cd homework/js/
+  158  cd /homework/js
+  159  cd ..
+  160  cd homework/js/
+  161  cd homework/css
+  162  cd homework/
+  163  cd js/
+  164  cd js/
+  165  /js/
+  166  main js
+  167  ./js
+  168  ./js/
+  169  ./ js
+  170  ls
+  171  chmod +x js
+  172  cxmod +x css
+  173  chmod +x css
+  174  chmod +x img
+  175  ls
+  176  js/
+  177  cd js/
+  178  ./js
+  179  ./js
+  180  touch main.js
+  181  mkdir js
+  182  mkdir img
+  183  mkdir css
+  184  cd js/
+  185  touch main.js
+  186  cd ..
+  187  cd css/
+  188  touch style.css
+  189  cd ..
+  190  cd img/
+  191  touch image.txt
+  192  cd ..
+  193  cd project/
+  194  touch index.html
+  195  touch task4.sh
+  196  cp ~/django/lesson1/homework/index.html ~/django/lesson2/homework/project/index.html
+  197   cp ~/django/lesson1/homework/index.html /home/ubuntu/django/lesson2/homework/project/index.html
+  198   cp ~/django/lesson1/homework/index.html django/lesson2/homework/project/index.html
+  199  cp ~/django/lesson1/homework/index.html ~/django/lesson2/homework/project/index.html
+  200  cd ..
+  201  cd ..
+  202  cd ..
+  203  cd ..
+  204  cp ~/django/lesson1/homework/index.html ~/django/lesson2/homework/project/index.html
+  205  cd django/lesson2/homework
+  206  mkdir history
+  207  touch history.txt
+  208  history >> history.txt
